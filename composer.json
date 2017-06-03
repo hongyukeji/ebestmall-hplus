@@ -1,0 +1,32 @@
+{
+  "name": "hongyukeji/ebestmall-hplus",
+  "description": "Html5 Advanced Project Template",
+  "keywords": [
+    "hplus",
+    "h+",
+    "advanced",
+    "project template"
+  ],
+  "homepage": "http://www.hongyuvip.com ",
+  "time": "2016-11-09",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Shadow",
+      "email": "admin@hongyuvip.com",
+      "homepage": "http://www.hongyuvip.com",
+      "role": "Engineer"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "ebestmall\\": ""
+    }
+  }
+}
